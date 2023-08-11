@@ -1,6 +1,11 @@
-# tugas_pakaji
+# tugas pak Aji -Baratha-wijaya
+Tugas lutter Pertama Baratha wijaya 11 AGUSTUS 2023
 
-A new Flutter project.
+- Tugas Flutter pertama ini adalah permulaan,benahi terus skillmu,supaya lebih baik.
+
+Aplikasi movie sederhana yang saya buat dengan Login dan list film favorit saya
+
+Baratha wijaya portofolio
 
 ## Getting Started
 
