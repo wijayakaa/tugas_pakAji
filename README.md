@@ -5,7 +5,7 @@ Tugas lutter Pertama Baratha wijaya 11 AGUSTUS 2023
 
 Aplikasi movie sederhana yang saya buat dengan Login dan list film favorit saya
 
-Baratha wijaya portofolio
+Baratha wijaya - portofolio
 
 ## Getting Started
 
