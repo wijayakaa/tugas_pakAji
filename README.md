@@ -1,5 +1,5 @@
 # tugas pak Aji -Baratha-wijaya
-Tugas lutter Pertama Baratha wijaya 11 AGUSTUS 2023
+Tugas flutter Pertama Baratha wijaya 11 AGUSTUS 2023
 
 - Tugas Flutter pertama ini adalah permulaan,benahi terus skillmu,supaya lebih baik.
 
